@@ -1,0 +1,21 @@
+.Dashboard{
+    height:95%;
+}
+
+.Dashboard a{
+    color: white;
+}
+
+.SpanTitle{
+    font-size: 1.2rem;
+    font-weight: 150;
+    line-height: 1.2;
+}
+
+@media(max-width:420px){
+    .SpanTitle{
+        font-size: 1.5rem;
+        font-weight: 150;
+        line-height: 1.5;
+    }
+}
