@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-## [Hosted Link](https://github.com/konarssuresh/Covid19World/tree/master)
+## [Hosted Link](https://konarssuresh.github.io/Covid19World)

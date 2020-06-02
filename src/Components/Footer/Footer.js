@@ -7,7 +7,7 @@ const footer=props=>(
     <div class="row">
       <div class="col-md-6 mt-md-0 mt-3">
         <h5 class="text-uppercase">DECLARATION</h5>
-        <p class="text-justify">The counts has been taken as per the  website of https://corona-api.com/ and 
+        <p class="text-justify">The counts has been taken as per the  website of https://github.com/konarssuresh/Covid19World/tree/master and 
           is  updated time to time as the data is updated in the site.</p>
       </div>
       <hr class="clearfix w-100 d-md-none pb-3"/>
