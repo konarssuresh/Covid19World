@@ -52,7 +52,7 @@ const store=createStore(reducer,composeEnhancers(applyMiddleware(thunk)));
 
 ReactDOM.render(
   <Provider store={store}>
-    <BrowserRouter basename="world_covid19">
+    <BrowserRouter basename="Covid19World">
       <React.StrictMode>
         <App />
       </React.StrictMode>
